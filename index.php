@@ -1,6 +1,6 @@
 <?php
 use yii\helpers\Html;
-use budyaga_cust\users\models\Pagination;
+use app\models\Pagination;
 $this->title = $get->title;
 // чтобы вывести пагинацию, нужен следующий код:
 ?>
